@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>wm_odas_ros_wrapper</name>
+  <version>0.0.0</version>
+  <description>The wm_odas_ros_wrapper package</description>
+
+  <maintainer email="jeffrey.cousineau@gmail.com">Jeffrey Cousineau</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>geometry_msgs</depend>
+  <depend>roscpp</depend>
+</package>
